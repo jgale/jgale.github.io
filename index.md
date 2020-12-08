@@ -1,0 +1,10 @@
+### About Me
+I'm a geek from Calgary, Alberta, Canada. I'm a father to one boy (soon to be two), which has [ruined everything in the nicest way](http://www.jonathancoulton.com/wiki/You_Ruined_Everything/Lyrics). I love technology, [but not as much as you, you see](https://www.youtube.com/watch?v=ERCzN91JicA). I'm really into hockey, especially fantasy hockey and the Flames. I'd probably beat you in a hockey pool (sorry). I'm terrible at actually playing hockey though. I'm also really into restaurants, or at least I used to be before having kids. I made iOS [app versions](http://www.forcegrind.com/calgaryeats/) of Calgary restaurant critic John Gilchrist's books, and an app called [Eat Canada](http://www.forcegrind.com/eatcanada/) for business travellers.
+
+### Links
+* [Resume](https://jeremygale.com/resume/) - See what I've done with my life.
+* [Force Grind](http://www.forcegrind.com) - My consulting company for custom iOS development.
+* [GitHub](https://github.com/jgale) - I haven't contributed as much to open-source as I should. Sorry.
+* [Twitter](https://twitter.com/jeremygale) - Imagine a Venn diagram of Flames hockey, technology, and retweets of quirky jokes. Are you in the intersection of those 3? If so, you and the 4 other people like you will love my Twitter account!
+* [Instagram](https://www.instagram.com/jeremygale) - **FACT:** My kids are the cutest kids in the whole world. Their grandmother said so.
+* [Get in touch!](mailto:jeremy@jeremygale.com)
